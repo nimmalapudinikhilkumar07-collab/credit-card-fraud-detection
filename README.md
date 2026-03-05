@@ -25,4 +25,5 @@ The goal of this project is to identify fraudulent transactions while minimizing
 Credit Card Fraud Detection Dataset
 
 ## Author
-[Your Name]
+NIKHIL KUMAR
+IIIT MANIPUR
